@@ -1,0 +1,13 @@
+
+URL for Container instances
+http://rg-acn-containerinstance2.westus.azurecontainer.io
+
+Links
+https://learn.microsoft.com/en-us/azure/container-apps/authentication-entra
+
+
+Front Door 
+URL
+https://afd-acn-containerinstance-bba0fwf8a6agfkf5.b01.azurefd.net
+
+appreg secret
